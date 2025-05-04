@@ -1,5 +1,5 @@
-name: Deploy Docker Image
-description: Pulls and Deploys a Docker image to a server using SSH and Docker Compose.
+name: Deploy Docker Image via SSH and Docker Compose
+description: GitHub Action to deploy a Docker image to a remote server using SSH and Docker Compose.
 author: "Anil Raj Rimal" 
 
 inputs:
